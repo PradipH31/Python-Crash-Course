@@ -1,0 +1,6 @@
+ENV/*
+ENV/
+.vscode
+.vscode/*
+finished.sh
+tempCodeRunnerFile.py
