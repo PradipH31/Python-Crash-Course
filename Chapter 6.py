@@ -118,14 +118,14 @@ fav_lang = {
 
 # Dictionary in a dictionary
 users = {
-    {'pampered_dog'}: {
+    'pampered_dog': {
         'user_id': '0',
         'password': '1234',
-        'name': 'pampro'
+        'user_name': 'pampro'
     },
-    {'hacksberg'}: {
+    'hacksberg': {
         'user_id': '1',
         'password': '1234',
-        'name': 'pamhacko'
+        'user_name': 'mhacko'
     }
 }
