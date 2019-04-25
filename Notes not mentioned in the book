@@ -1,0 +1,8 @@
+Dictionary can be created with dict() function
+    It initializes a new dictionary with the name=value pairs
+    For example:  dict(one=1, two=2)
+    For example:  a = dict(one=1, two=2)
+
+Before importing a module, make sure that the module contains only functions.
+Or else, every code will be executed while importing.
+It should not contain even the execution of the function

@@ -4,3 +4,4 @@ ENV/
 .vscode/*
 finished.sh
 tempCodeRunnerFile.py
+*.pyc

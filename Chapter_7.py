@@ -47,3 +47,4 @@ print(experiment_medicines + approved_medicines)
 # Removing all instances from a list
 while 'cat' in approved_medicines:
     approved_medicines.remove('cat')
+# ----------------------------------------------------------------
