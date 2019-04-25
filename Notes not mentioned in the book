@@ -6,3 +6,10 @@ Dictionary can be created with dict() function
 Before importing a module, make sure that the module contains only functions.
 Or else, every code will be executed while importing.
 It should not contain even the execution of the function
+
+Classes:
+Any function of a class will provide self as an argument to the method
+So all functions of a class must have a self parameter
+
+Classes should start with capital letters to avoid problems while importing
+functions and classes

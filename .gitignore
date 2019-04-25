@@ -5,3 +5,5 @@ ENV/
 finished.sh
 tempCodeRunnerFile.py
 *.pyc
+__pycache__
+__pycache__/*
