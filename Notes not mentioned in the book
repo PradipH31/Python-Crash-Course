@@ -13,3 +13,17 @@ So all functions of a class must have a self parameter
 
 Classes should start with capital letters to avoid problems while importing
 functions and classes
+
+Using format with print:
+a = "Pradip"
+print('{} is gamer').format(a)
+
+For the run extension, the shebang requires complete path,
+not the relative path
+
+To remove new line, use strip(l/r/a)
+
+Store absolute paths in a variable
+File writer will only write string data
+File writer will not create a new file.
+It requires existing file
