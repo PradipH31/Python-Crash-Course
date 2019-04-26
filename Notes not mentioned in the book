@@ -27,3 +27,6 @@ Store absolute paths in a variable
 File writer will only write string data
 File writer will not create a new file.
 It requires existing file
+
+String.count('text') method returns the number of occurence of 'text' in the
+string. It is helpful to use string.lower().count('text')
