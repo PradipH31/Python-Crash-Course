@@ -32,3 +32,8 @@ json.dump() does not require nuw file
 
 String.count('text') method returns the number of occurence of 'text' in the
 string. It is helpful to use string.lower().count('text')
+
+A unit test verifies that one specific aspect of a function’s behavior is correct.
+A test case is a collection of unit tests that together prove
+that a function behaves as it’s supposed to, within the full range of situations 
+you expect it to handle.
