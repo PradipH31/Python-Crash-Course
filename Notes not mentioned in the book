@@ -37,3 +37,8 @@ A unit test verifies that one specific aspect of a function’s behavior is corr
 A test case is a collection of unit tests that together prove
 that a function behaves as it’s supposed to, within the full range of situations 
 you expect it to handle.
+
+In plotting lines,
+c=(x,y,z) to set different colors ranging from 0-1
+Value closer to 1 produce light colors
+Value closer to 0 produce dark colors
