@@ -42,3 +42,8 @@ In plotting lines,
 c=(x,y,z) to set different colors ranging from 0-1
 Value closer to 1 produce light colors
 Value closer to 0 produce dark colors
+
+In matplotlib, pyplot:
+pyplot.plot(x, y, c='',alpha=integer)
+Here, alpha=ranges from 0 to 1
+denoting transparency

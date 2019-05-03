@@ -14,7 +14,7 @@ plt.title("Square numbers", fontsize=24)
 # Setting the label for x and y axes
 plt.xlabel("Value", fontsize=14)
 plt.ylabel("Squares of numbers", fontsize=14)
-# Modifying display of both x and y axis
+# Modifying display of the data of both x and y axis
 plt.tick_params(axis='both', labelsize=14)
 # Making the plot display
 plt.show()
