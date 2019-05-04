@@ -1,3 +1,6 @@
+print(abc, def)
+print can take multiple arguments like string abc int def
+
 Dictionary can be created with dict() function
     It initializes a new dictionary with the name=value pairs
     For example:  dict(one=1, two=2)
@@ -47,3 +50,5 @@ In matplotlib, pyplot:
 pyplot.plot(x, y, c='',alpha=integer)
 Here, alpha=ranges from 0 to 1
 denoting transparency
+
+API - Application Programming Interface
